@@ -1,6 +1,6 @@
 ## Messaging App Project
 
-[![fr](https://img.shields.io/badge/lang-fr-blue)](README.fr.md)
+
 
 
 The goal of the project was to build a messaging web app that allows users to send and receive real-time messages.
